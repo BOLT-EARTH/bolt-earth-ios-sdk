@@ -4,7 +4,7 @@ BoltEarth iOS SDK for EV charging integrations.
 
 ## Installation
 
-ruby pod 'BoltEarthUiSdkCore',     :podspec => 'https://raw.githubusercontent.com/debashish310/BoltEarthUiSdkCore/main/BoltEarthUiSdkCore.podspec' 
+ruby pod 'BoltEarthUiSdkCore',     :podspec => 'https://raw.githubusercontent.com/BOLT-EARTH/bolt-earth-ios-sdk/main/BoltEarthUiSdkCore.podspec' 
 
 ## Access Requirement
 

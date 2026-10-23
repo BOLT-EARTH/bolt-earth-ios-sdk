@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.dependency 'Rudder',               '1.31.1'
   s.dependency 'FittedSheets',         '2.7.1'
   s.dependency 'DropDown',             '2.3.13'
-  s.dependency 'IQKeyboardManagerSwift', '6.5.11'
+  s.dependency 'IQKeyboardManagerSwift', '~> 8.0'
   s.dependency 'PhoneNumberKit', '3.7.3'
 
   # HyperSDK is dynamic — linked against the XCFramework at build time.
@@ -38,5 +38,6 @@ Pod::Spec.new do |s|
   # deps (Airborne, HyperCore, JuspaySafeBrowser) at runtime via @rpath.
 
   s.dependency 'HyperSDK',             '2.2.5'
+  s.dependency 'DGCharts',             '5.1.0'
 
 end
